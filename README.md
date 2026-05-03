@@ -17,3 +17,9 @@ Swagger для прямого тестирования эндпоинтов MAX.
 Асинхронный Python-фреймворк для разработки ботов в MAX.
 - GitHub - https://github.com/K1rL3s/maxo
 - ТГ чат - https://t.me/maxo_py
+
+### userinfobot 
+Бот для получения id пользователя.
+https://max.ru/userinfobot
+
+
